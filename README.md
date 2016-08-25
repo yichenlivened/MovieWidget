@@ -12,6 +12,7 @@ Detailed UI specifications can be found on zeplin here. I have also invited you 
 collaboration where you can find font sizes, spacing and colors. Additionally I have attached a star graphic for the movie rating.
 
 ## Build & development
+Enable CORS on your browser.
 Run `gulp` for building and `gulp serve` for preview.
 
 ## Reference
